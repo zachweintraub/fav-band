@@ -1,0 +1,11 @@
+.sidebar{
+  float:right;
+  width: 20%;
+  font-size: 20px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.body{
+  width: 70%;
+}
