@@ -4,6 +4,8 @@
   font-size: 20px;
   background-color: yellow;
   text-align: center;
+  border: solid black;
+  padding-bottom: 30%;
 }
 
 .body{
@@ -12,4 +14,7 @@
 
 .pic{
   float:left;
+}
+.para{
+  font-size: 20px;
 }
